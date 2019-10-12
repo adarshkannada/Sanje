@@ -5,7 +5,7 @@
 #
 title: Acchakannada Tech
 email: adarshkannada@gmail.com
-description: A Kannada Technology Blog.
+description: The Kannada Technology Blog.
 url: /Sanje
 keywords: ["blog", "jekyll"]
 
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Adarsh Kannada
+  name: Acchakannada
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "The Kannada Technology Blog"
