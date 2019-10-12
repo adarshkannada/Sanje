@@ -6,8 +6,8 @@ categories: General
 comments: true
 image:
   feature: https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
-  Author: Adarsha
-  creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
+  Credit: Adarsha
+  creditlink: https://acchakannada.com
 ---
 
 < p align = "justify">This is the first intro post written on this blog. I will be testing further posts on this and then finalize the blog soon.</p>
