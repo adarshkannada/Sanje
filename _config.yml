@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: Acchakannada Tech
+email: adarshkannada@gmail.com
 description: A Kannada Technology Blog.
-url: # the base hostname & protocol for your site
+url: '/sanje'
 keywords: ["blog", "jekyll"]
 
 #
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Adarsh Kannada
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
