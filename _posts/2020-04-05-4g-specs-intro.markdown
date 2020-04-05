@@ -5,7 +5,7 @@ excerpt: "Introduction to 4g Specs"
 categories: Technology
 comments: true
 image:
-  feature: img/bababudangiri-peak-chittaara.jpg
+  feature: bababudangiri-peak-chittaara.jpg
   credit: Adarsha
   creditlink: https://acchakannada.com
 ---
