@@ -33,10 +33,10 @@ This constitutes of three smaller Units.
  - Any research methods, efficient methods brought up and approved by research wing will be implemented in the identified areas.<br>
     - New irrigation methods will be implemented to support new agricultural practices where needed.<br>
     - Members can sell to our units and get money instantly.
-      - Crops are divided in 3 category based on quality.
-      - Grade A, Grade B, Grade C.
-      - Price range decided for crops will based on which quality category they fall into, and then farmers are given the prices.
-      - If they are not satisfied with the prices, they are free to sell elsewhere. (loophole, needs improvement).
+    - Crops are divided in 3 category based on quality.
+    - Grade A, Grade B, Grade C.
+    - Price range decided for crops will based on which quality category they fall into, and then farmers are given the prices.
+    - If they are not satisfied with the prices, they are free to sell elsewhere. (loophole, needs improvement).
 - Transportation team will then take these to their pre identified destination as decided from market research and management teams. (also some to our homes).
 - Finance and Accounts team will facilitate the smooth operation between and all units.
 
