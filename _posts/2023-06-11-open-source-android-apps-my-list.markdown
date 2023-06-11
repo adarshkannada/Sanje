@@ -22,3 +22,6 @@ image:
 - Torrent client: https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&hl=en&gl=US
 - Reddit client: https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en&gl=US
 - Video Player: https://apt.izzysoft.de/fdroid/index/apk/dev.anilbeesetti.nextplayer
+
+
+<p align = "center" > ಆದರ್ಶ </p>
